@@ -1,8 +1,6 @@
 # python-project
 PROJECT REPORT 
 
- 
-
 DATA SET NAME: LOKSABHA  ELECTION DATA ANALYSIS USING PYTHON 
 
 *PROJECT OBJECTIVE -THE OBJECTIVE OF THIS PROJECT IS TO PERFORM A COMPREHENSIVE EXPLORATORY DATA ANALYSIS ON LOKSABHA  ELECTION DATA. 
@@ -21,48 +19,49 @@ CONCLUSION
 
 *The party that received the most votes in 2014 was BJP. 
 
-*Based on this data, many parties are changing. Even though it is common, first INC and BJP will change. Later after 2014, BJP will rule.  
+*Based on this data, many parties are changing. Even though it is common, first INC and BJP will change. Later after 2014, BJP will rule. 
 
-2. Tools Used
+
+
+2.Tools Used
 Pandas – Data cleaning, preprocessing, and analysis
 NumPy – Numerical operations
 Matplotlib – Data visualization
 Seaborn – Statistical and advanced visualizations
-Google Colab / Jupyter Notebook – Project development environment
-4. Steps Followed
-1. Data Loading and Initial Exploration
+Google Colab  – Project development environment
+
+
+3. Steps Followed
+
+*Data Loading and Initial Exploration
 Imported the dataset using Pandas
+*head()
+*info()
+*describe()
+*Data type inspection
+* Data Cleaning and Preprocessing
+*Checked for missing values
+*Checked and removed duplicate records
+*Cleaned percentage and numeric columns
+*Corrected inconsistent data types
+*Created derived columns for additional analysis
 
-Examined dataset structure using:
-
-head()
-info()
-describe()
-Data type inspection
-2. Data Cleaning and Preprocessing
-Checked for missing values
-Checked and removed duplicate records
-Cleaned percentage and numeric columns
-Corrected inconsistent data types
-Created derived columns for additional analysis
-3. Exploratory Data Analysis (EDA)
+4. Exploratory Data Analysis (EDA)
 Performed:
+*Univariate analysis
+*Bivariate analysis
+*Multivariate analysis
+*Statistical summaries
+*Groupby analysis
+*Pivot tables
+*Correlation analysis
 
-Univariate analysis
-Bivariate analysis
-Multivariate analysis
-Used:
-
-Statistical summaries
-Groupby analysis
-Pivot tables
-Correlation analysis
 4. Data Visualization
 Created multiple visualizations using Matplotlib and Seaborn, including:
 
-Line charts
-Bar charts
-Histograms
-Scatter plots
-Box plots
-Heatmaps
+*Line charts
+*Bar charts
+*Histograms
+*Scatter plots
+*Box plots
+*Heatmaps
