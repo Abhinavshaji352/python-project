@@ -24,44 +24,43 @@ CONCLUSION
 
 
 2.Tools Used
-Pandas – Data cleaning, preprocessing, and analysis
-NumPy – Numerical operations
-Matplotlib – Data visualization
-Seaborn – Statistical and advanced visualizations
-Google Colab  – Project development environment
-
+Pandas – Data cleaning, preprocessing, and analysis,
+NumPy – Numerical operations,
+Matplotlib – Data visualization,
+Seaborn – Statistical and advanced visualizations,
+Google Colab  – Project development environment,
 
 3. Steps Followed
 
-*Data Loading and Initial Exploration
-Imported the dataset using Pandas
-*head()
-*info()
-*describe()
-*Data type inspection
-* Data Cleaning and Preprocessing
-*Checked for missing values
-*Checked and removed duplicate records
-*Cleaned percentage and numeric columns
-*Corrected inconsistent data types
-*Created derived columns for additional analysis
+*Data Loading and Initial Exploration,
+Imported the dataset using Pandas,
+*head(),
+*info(),
+*describe(),
+*Data type inspection,
+* Data Cleaning and Preprocessing,
+*Checked for missing values,
+*Checked and removed duplicate records,
+*Cleaned percentage and numeric columns,
+*Corrected inconsistent data types,
+*Created derived columns for additional analysis,
 
 4. Exploratory Data Analysis (EDA)
 Performed:
-*Univariate analysis
-*Bivariate analysis
-*Multivariate analysis
-*Statistical summaries
-*Groupby analysis
-*Pivot tables
-*Correlation analysis
+*Univariate analysis,
+*Bivariate analysis,
+*Multivariate analysis,
+*Statistical summaries,
+*Groupby analysis,
+*Pivot tables,
+*Correlation analysis,
 
-4. Data Visualization
+5. Data Visualization
 Created multiple visualizations using Matplotlib and Seaborn, including:
 
-*Line charts
-*Bar charts
-*Histograms
-*Scatter plots
-*Box plots
-*Heatmaps
+*Line charts,
+*Bar charts,
+*Histograms,
+*Scatter plots,
+*Box plots,
+*Heatmaps,
