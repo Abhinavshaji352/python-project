@@ -56,7 +56,7 @@ Performed:
 *Correlation analysis,
 
 5. Data Visualization
-Created multiple visualizations using Matplotlib and Seaborn, including:
+-Created multiple visualizations using Matplotlib and Seaborn, including:
 
 *Line charts,
 *Bar charts,
